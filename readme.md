@@ -7,6 +7,6 @@
 
 #### donwload the project
 
-run **npm install** in your terminal to install the packages after successfully installation.
+run "**npm install**" in your terminal to install the packages after successfully installation.
 
-then run **node .** to test the script
+then run "**node .**" to test the script
