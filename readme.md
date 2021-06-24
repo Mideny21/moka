@@ -1,12 +1,12 @@
 # Moka url monitoring script
 
-Built using modern technology: node.js 
+<h1 align="center">Built using node js</h1>
 
 
-# How to test
+## How to test
 
-donwload the project
+#### donwload the project
 
-run npm install in your terminal to install the packages
+run "**npm install**" in your terminal to install the packages after successfully installation.
 
-then run "node ." to test the sript
+then run "**node .**" to test the sript
